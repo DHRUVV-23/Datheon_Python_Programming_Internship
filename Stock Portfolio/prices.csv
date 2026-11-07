@@ -1,0 +1,34 @@
+Ticker,Company,CurrentPrice
+AAPL,Apple Inc.,225.50
+MSFT,Microsoft Corporation,415.00
+GOOGL,Alphabet Inc.,175.25
+AMZN,Amazon.com Inc.,185.75
+NVDA,NVIDIA Corporation,128.00
+META,Meta Platforms Inc.,580.00
+TSLA,Tesla Inc.,215.30
+BRK.B,Berkshire Hathaway Inc.,450.00
+JNJ,Johnson & Johnson,162.40
+JPM,JPMorgan Chase & Co.,222.10
+V,Visa Inc.,280.50
+PG,Procter & Gamble Co.,168.90
+UNH,UnitedHealth Group Inc.,570.00
+HD,Home Depot Inc.,395.00
+MA,Mastercard Inc.,490.00
+DIS,Walt Disney Co.,96.50
+NFLX,Netflix Inc.,690.00
+AMD,Advanced Micro Devices Inc.,142.20
+INTC,Intel Corporation,22.80
+ADBE,Adobe Inc.,510.00
+CRM,Salesforce Inc.,285.00
+PYPL,PayPal Holdings Inc.,78.40
+KO,Coca-Cola Company,68.50
+PEP,PepsiCo Inc.,172.00
+WMT,Walmart Inc.,82.30
+COST,Costco Wholesale Corp.,890.00
+CSCO,Cisco Systems Inc.,55.20
+XOM,Exxon Mobil Corporation,118.50
+CVX,Chevron Corporation,154.00
+LLY,Eli Lilly and Company,840.00
+BAC,Bank of America Corp.,42.10
+SPY,SPDR S&P 500 ETF Trust,575.00
+QQQ,Invesco QQQ Trust,490.00
